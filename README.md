@@ -15,3 +15,6 @@ Affandika Febrian Putra Yunanto
 
 5. Ubah File Seeder
 ![image](https://github.com/030Affandika/UAS_MBD/assets/100705931/e6a70631-612c-402d-9470-b6f0722831aa)
+
+6. Seeder
+![image](https://github.com/030Affandika/UAS_MBD/assets/100705931/b22c89d8-60f9-4c54-af85-af7f948ed322)
